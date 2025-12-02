@@ -1,4 +1,4 @@
-# C++ HID Weigand Protocol/Pinpad Reader for Arduino
+# C++ HID Wiegand Protocol/Pinpad Reader for Arduino
 Arduino Keypad and RFID reading software for HID iClass, PivClass, and MultiClass/SE 
 model readers. You can create a serial connection to transmit decoded data to an ACM panel or control system.
 
