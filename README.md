@@ -7,6 +7,8 @@ model readers. You can create a serial connection to transmit decoded data to an
 If the bits in this software's keypress readers cannot be decoded, log the raw
 bits to the console and change them accordingly. **Implement [broadKeypadRecognition.cpp](broadKeypadRecognition.cpp) in the decoding method to do this consistently.**
 
+<img src="diagram.png" width="50%"></img>
+
 Tested on PIVClass Reader with whilst reading 8 bits from the key press.
 
 ## Setup:
